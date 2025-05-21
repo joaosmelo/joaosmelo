@@ -43,4 +43,4 @@ Eae, me chamo João Melo
   </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaosmelo/joaosmelo/blob/output/github-contribution-grid-snake.svg)
