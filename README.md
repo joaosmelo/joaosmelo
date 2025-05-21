@@ -6,6 +6,7 @@ Eae, me chamo João Melo
 
 🌱 Estou aprendendo Estruturas de Dados, Algoritmos e Arquitetura de Computadores
 
+
 <div>
   <a href="https://beacons.ai/rafaballerini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosmelo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
