@@ -13,7 +13,7 @@ Me chamo João Melo, tenho 18 anos e sou natural de Brasíila. Concluí o ensino
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
